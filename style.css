@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+div{
+ border:2px solid rgb(158, 193, 16);
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+    margin-top: 100px;
+    border-radius: 10px;
+    background-color: rgb(50, 33, 144);
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+
+}
